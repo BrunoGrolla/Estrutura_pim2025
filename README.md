@@ -119,7 +119,7 @@ Este projeto está sob a licença **MIT**. Para mais detalhes, veja o arquivo [L
 📌 **Equipe de desenvolvedores:
 
 - [Bruno Grolla G925FE9](https://github.com/BrunoGrolla)  
-- [Gabriel Guimarães](https://github.com/guimagabs)  
+- [Gabriel Guimarães F35CCG3](https://github.com/guimagabs)  
 - [Matheus Silva G1013I7](https://github.com/MatheusSilva77)
 - [Luciano Rafael N0841D5](https://github.com/lozss)
 - [Marcella Mendes G9227I5](https://github.com/mahsouz444)
