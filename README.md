@@ -73,43 +73,34 @@ O backlog contém as principais funcionalidades que serão desenvolvidas no sist
 ## 📌 Diagramas do Sistema  
 Os diagramas a seguir ilustram a estrutura e funcionamento do sistema.
 
-### 📌 1. Diagrama de Casos de Uso  
+## 📌 Diagramas do Sistema
 
-![Diagrama de Casos de Uso Login de Funcionário](docs/diagramas/casos_de_uso.png)
-![Diagrama de Casos de Uso Cadastro de Chamado](docs/diagramas/casos_de_uso.png)
-![Diagrama de Casos de Uso Prioridade de chamado](docs/diagramas/casos_de_uso.png)
-![Diagrama de Casos de Uso SLA](docs/diagramas/casos_de_uso.png)
-![Diagrama de Casos de Uso Segmentação de Área](docs/diagramas/casos_de_uso.png)
-![Diagrama de Casos de Uso Inteligencia Artificial](docs/diagramas/casos_de_uso.png)
+### 1. Diagrama de Casos de Uso  
+![Login de Funcionário](https://i.imgur.com/JbR5WFF.png)  
+![Cadastro de Chamado](https://i.imgur.com/45fvIXg.png)  
+![Prioridade de Chamado](https://i.imgur.com/j66C0tJ.png)  
+![SLA](https://i.imgur.com/JO3SYQe.png)  
+![Segmentação de Área](https://i.imgur.com/bZmkFj5.png)  
+![Inteligência Artificial](https://i.imgur.com/ibRFKUi.png)  
 
-### 📌 2. Diagrama de Classes  
+### 2. Diagrama de Classes  
+![Login de Funcionário](https://i.imgur.com/yfkmZQe.png)  
+![Cadastro de Chamado](https://i.imgur.com/5xqC676.png)  
+![Prioridade de Chamado](https://i.imgur.com/2qeqUqu.png)  
+![SLA](https://i.imgur.com/CMoWTLr.png)  
+![Segmentação de Área](https://i.imgur.com/YWVXTEP.png) 
+![Inteligência Artificial](https://i.imgur.com/HX2Ha8V.png)  
 
-![Diagrama de Classes Login de Funcionário](docs/diagramas/classes_login.png)  
-![Diagrama de Classes Cadastro de Chamado](docs/diagramas/classes_cadastro.png)  
-![Diagrama de Classes Prioridade de Chamado](docs/diagramas/classes_prioridade.png)  
-![Diagrama de Classes SLA](docs/diagramas/classes_dashboard.png)  
-![Diagrama de Classes Segmentação de Área](docs/diagramas/classes_segmentacao.png)  
-![Diagrama de Classes Inteligência Artificial](docs/diagramas/classes_ia.png)  
+### 3. Diagrama de Sequência  
+![Login de Funcionário](https://i.imgur.com/62JYV3O.png)  
+![Cadastro de Chamado](https://i.imgur.com/MGZmQZg.png)  
+![Prioridade de Chamado](https://i.imgur.com/DITTVXe.png)  
+![SLA](https://i.imgur.com/Qo94bfn.png)  
+![Segmentação de Área](https://i.imgur.com/bMPBbdx.png)  
+![Inteligência Artificial](https://i.imgur.com/hxR2Cu6.png)  
 
-### 📌 3. Diagrama de Sequência  
+### 4. Diagrama de Implantação  
 
-![Diagrama de Sequência Login de Funcionário](docs/diagramas/sequencia_login.png)  
-![Diagrama de Sequência Cadastro de Chamado](docs/diagramas/sequencia_cadastro.png)  
-![Diagrama de Sequência Prioridade de Chamado](docs/diagramas/sequencia_prioridade.png)  
-![Diagrama de Sequência SLA](docs/diagramas/sequencia_dashboard.png)  
-![Diagrama de Sequência Segmentação de Área](docs/diagramas/sequencia_segmentacao.png)  
-![Diagrama de Sequência Inteligência Artificial](docs/diagramas/sequencia_ia.png) 
-
-### 📌 Diagramas de Implantação  
-
-![Diagrama de Implantação Login de Funcionário](docs/diagramas/implantacao_login.png)  
-![Diagrama de Implantação Cadastro de Chamado](docs/diagramas/implantacao_cadastro.png)  
-![Diagrama de Implantação Prioridade de Chamado](docs/diagramas/implantacao_prioridade.png)  
-![Diagrama de Implantação SLA](docs/diagramas/implantacao_dashboard.png)  
-![Diagrama de Implantação Segmentação de Área](docs/diagramas/implantacao_segmentacao.png)  
-![Diagrama de Implantação Inteligência Artificial](docs/diagramas/implantacao_ia.png)
-
----
 
 ## 📝 Status do Projeto  
 - [x] Definição do escopo  
