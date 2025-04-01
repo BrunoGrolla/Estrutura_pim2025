@@ -80,6 +80,7 @@ Os diagramas a seguir ilustram a estrutura e funcionamento do sistema.
 ![Cadastro de Chamado](https://i.imgur.com/45fvIXg.png)  
 ![Prioridade de Chamado](https://i.imgur.com/j66C0tJ.png)  
 ![SLA](https://i.imgur.com/JO3SYQe.png)  
+- O SLA para o desenvolvimento de diagramas de casos de uso estabelece que o fornecedor se compromete a entregar o diagrama inicial em até 7 dias úteis, com até duas rodadas de revisão dentro do prazo de 5 dias úteis para cada solicitação de alteração. O diagrama deverá refletir com precisão os requisitos do sistema, e após a entrega, o cliente terá direito a suporte por até 15 dias úteis para ajustes ou esclarecimentos. Caso haja descumprimento dos prazos ou requisitos, serão aplicadas penalidades, conforme acordado no contrato, incluindo possíveis descontos ou prorrogação sem custos adicionais.
 ![Segmentação de Área](https://i.imgur.com/bZmkFj5.png)  
 ![Inteligência Artificial](https://i.imgur.com/ibRFKUi.png)  
 
