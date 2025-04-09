@@ -88,9 +88,10 @@ A segmentação de área de atendimento permite ao administrador do sistema defi
 
 Objetivos:
 -Direcionar chamados para a equipe correta de forma automática.
+
 -Filtrar visualizações e acessos por área de atuação.
--Melhorar o tempo de resposta e a eficiência no atendimento.
--Alimentar o sistema de IA com dados segmentados por área, aprimorando sugestões de soluções futuras.
+
+-Melhorar o tempo de resposta e a eficiência no atendimento.-Alimentar o sistema de IA com dados segmentados por área, aprimorando sugestões de soluções futuras.
 
 _Ator Principal
 -Administrador
