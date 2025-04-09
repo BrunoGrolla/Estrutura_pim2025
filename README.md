@@ -82,6 +82,24 @@ Os diagramas a seguir ilustram a estrutura e funcionamento do sistema.
 ![SLA](https://i.imgur.com/JO3SYQe.png)  
 - O SLA para o desenvolvimento de diagramas de casos de uso estabelece que o fornecedor se compromete a entregar o diagrama inicial em até 7 dias úteis, com até duas rodadas de revisão dentro do prazo de 5 dias úteis para cada solicitação de alteração. O diagrama deverá refletir com precisão os requisitos do sistema, e após a entrega, o cliente terá direito a suporte por até 15 dias úteis para ajustes ou esclarecimentos. Caso haja descumprimento dos prazos ou requisitos, serão aplicadas penalidades, conforme acordado no contrato, incluindo possíveis descontos ou prorrogação sem custos adicionais.
 ![Segmentação de Área](https://i.imgur.com/bZmkFj5.png)  
+-Segmentação de Área:
+
+A segmentação de área de atendimento permite ao administrador do sistema definir e organizar as áreas responsáveis pelo tratamento dos chamados técnicos. Essa segmentação possibilita o roteamento automático dos chamados conforme o conteúdo informado pelo usuário, otimizando o fluxo de atendimento e contribuindo para maior agilidade e assertividade na resolução de problemas.
+
+Objetivos:
+-Direcionar chamados para a equipe correta de forma automática.
+-Filtrar visualizações e acessos por área de atuação.
+-Melhorar o tempo de resposta e a eficiência no atendimento.
+-Alimentar o sistema de IA com dados segmentados por área, aprimorando sugestões de soluções futuras.
+
+_Ator Principal
+-Administrador
+
+_Atores Secundários
+-Sistema
+-Atendente
+-Usuário
+
 ![Inteligência Artificial](https://i.imgur.com/ibRFKUi.png)  
 
 ### 2. Diagrama de Classes  
