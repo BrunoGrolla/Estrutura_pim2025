@@ -125,7 +125,7 @@ _Atores Secundários
 ## 📝 Status do Projeto  
 - [x] Definição do escopo  
 - [x] Modelagem dos diagramas UML  
-- [ ] Desenvolvimento do sistema *(Em andamento...)*  
+- [ ] Desenvolvimento do sistema, banco de dados e interface. *(Em desenvolvimento...)*  
 - [ ] Testes e ajustes  
 - [ ] Lançamento   
 
