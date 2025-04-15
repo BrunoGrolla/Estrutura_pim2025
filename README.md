@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-em%20planejamento-blue)
 
-Um sistema de chamados para empresas que utiliza **Inteligência Artificial** para sugerir possíveis soluções antes da intervenção humana, otimizando o suporte técnico e reduzindo o tempo de atendimento.
+Um sistema de chamados para empresas que utiliza **Inteligência Artificial** para sugerir possíveis soluções antes da intervenção humana, otimizando o suporte técnico e reduzindo o tempo de atendimento
 
 ---
 
