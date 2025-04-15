@@ -6,7 +6,7 @@ Um sistema de chamados para empresas que utiliza **Inteligência Artificial** pa
 
 ---
 
-## 📖 Sobre o Projeto  
+## 📖 Sobre o Projeto  .
 O **Sistema de Chamados com Soluções IA** é uma plataforma desenvolvida para empresas que desejam aprimorar o suporte técnico por meio da automação inteligente.  
 
 🔹 **Objetivo principal:** Reduzir o tempo de resposta no atendimento de chamados utilizando IA para sugerir soluções automáticas.  
