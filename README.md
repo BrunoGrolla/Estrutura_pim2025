@@ -121,6 +121,109 @@ _Atores Secundários
 
 ### 4. Diagrama de Implantação  
 
+### 5. Sprints Planejadas
+Cada sprint terá duração de 2 semanas.
+
+## Sprint 1 - Autenticação e Perfis de Usuário
+Estabelecer a base de segurança e autenticação do sistema.
+
+-Implementar sistema de login com e-mail e senha
+-Validação de credenciais
+-Diferenciação de perfis (usuário comum, atendente, gerente, admin)
+-Controle de sessão
+
+## Sprint 2 - Abertura e Gestão de Chamados
+Permitir a criação e visualização dos chamados.
+
+-Cadastro de chamado (título, descrição, área, prioridade)
+-Notificação por e-mail na criação
+-Listagem de chamados por usuário
+-Visualização de detalhes de um chamado
+
+## Sprint 3 - Gestão de Prioridades e SLA
+Implementar lógica de prioridade e controle de prazos.
+
+-Classificação de prioridade (Baixa, Média, Alta)
+-Reclassificação por atendentes/gerentes
+-Configuração de SLAs por prioridade
+-Alertas de proximidade do prazo limite
+-Relatórios de cumprimento/violação de SLA
+
+## Sprint 4 - Segmentação de Área e Roteamento
+Organizar o atendimento por áreas específicas.
+
+-Cadastro e gestão de áreas
+-Roteamento automático com base na descrição
+-Visualização restrita de chamados por área
+-Acompanhamento em tempo real do chamado pelo solicitante
+
+## Sprint 5 - Inteligência Artificial
+Início da criação com IA.
+
+-Integração com motor de IA (ex: modelo NLP treinado ou integração com serviço externo)
+-Sugestão de solução com base na descrição do problema
+-Classificação automática da prioridade
+-Sugestão de área responsável
+
+## Sprint 6 - Refinamento da IA + Relatórios Gerenciais
+Aprimorar automações e oferecer dashboards.
+
+-Treinamento contínuo do modelo de IA
+-Feedback de efetividade da sugestão (foi útil ou não)
+
+## Sprint 7 - Testes Finais
+Garantir qualidade do sistema antes da entrega.
+
+-Testes automatizados e manuais
+-Ajustes finais.
+
+### ✅ Requisitos Funcionais por Módulo
+## Login de Funcionário
+-O sistema deve permitir login com e-mail e senha.
+-O sistema deve validar credenciais e exibir mensagens de erro apropriadas.
+-O sistema deve identificar e controlar o nível de acesso com base no perfil do usuário.
+
+## Cadastro de Chamado
+-O usuário deve poder registrar um novo chamado com título, descrição, área e prioridade.
+-O sistema deve notificar o usuário por e-mail após o cadastro do chamado.
+-O usuário pode acompanhar o status do chamado em tempo real.
+
+## Prioridade de Chamado
+-O sistema deve classificar chamados em Baixa, Média ou Alta prioridade.
+-O sistema deve notificar imediatamente o atendente no caso de prioridade Alta.
+-Atendentes e gerentes podem reclassificar a prioridade de um chamado.
+
+## SLA 
+-O sistema deve atribuir prazos máximos para resolução conforme a prioridade.
+-O sistema deve emitir alertas próximos ao vencimento do SLA.
+-O sistema deve gerar relatórios de cumprimento ou violação de SLA.
+
+## Segmentação de Área
+-O sistema deve permitir o cadastro de áreas de atendimento.
+-O sistema deve realizar roteamento automático com base na descrição.
+-O sistema deve restringir visualizações de chamados a membros da respectiva área.
+
+## Inteligência Artificial
+-A IA deve analisar a descrição do chamado e sugerir possíveis soluções.
+
+### ✅ Requisitos Não Funcionais (Simplificados)
+## Segurança
+-O sistema deve ter login com senha protegida.
+-Apenas usuários autorizados podem acessar suas áreas específicas.
+
+## Desempenho
+-O sistema deve carregar as páginas em até 3 segundos.
+-As sugestões da IA devem aparecer em até 5 segundos.
+
+## Disponibilidade
+-O sistema deve funcionar de forma estável durante o horário comercial.
+
+## Usabilidade
+-O sistema deve ser fácil de usar, com botões e textos claros.
+-Deve funcionar bem em computadores e celulares.
+
+## Compatibilidade
+-O sistema deve funcionar nos navegadores mais usados (Chrome, Firefox, Edge).
 
 ## 📝 Status do Projeto  
 - [x] Definição do escopo  
